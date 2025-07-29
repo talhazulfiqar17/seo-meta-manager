@@ -1,0 +1,23 @@
+/* Front-end styles for any plugin-related elements */
+.seo-meta-manager-preview {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.seo-meta-manager-preview h3 {
+    margin-top: 0;
+    color: #23282d;
+}
+
+.seo-meta-manager-preview .preview-meta-title,
+.seo-meta-manager-preview .preview-meta-description {
+    margin: 10px 0;
+}
+
+.seo-meta-manager-preview strong {
+    display: inline-block;
+    min-width: 120px;
+    color: #666;
+}
