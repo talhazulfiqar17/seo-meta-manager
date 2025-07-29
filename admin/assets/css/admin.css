@@ -1,1 +1,25 @@
+.seo-meta-manager-fields {
+    padding: 10px 0;
+}
 
+.seo-meta-field {
+    margin-bottom: 20px;
+}
+
+.seo-meta-counter {
+    margin-top: 5px;
+}
+
+.seo-meta-counter .progress-bar {
+    height: 5px;
+    margin: 3px 0;
+    background-color: #ddd;
+    width: 0;
+    transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.seo-meta-counter .description {
+    margin: 5px 0 0;
+    color: #666;
+    font-style: italic;
+}
