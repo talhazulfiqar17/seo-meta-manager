@@ -1,5 +1,5 @@
 === SEO Meta Manager ===
-Contributors: yourname
+Contributors: Talha Zulfiqar
 Tags: seo, meta tags, title, description
 Requires at least: 5.6
 Tested up to: 6.0
